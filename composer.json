@@ -1,0 +1,17 @@
+{
+    "name": "pikachu/example.local",
+    "description": "A sample PHP project for testing.",
+    "autoload": {
+        "psr-4": {
+            "Pikachu\\ExampleLocal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ZXCpikachu",
+            "email": "misha3.09@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
